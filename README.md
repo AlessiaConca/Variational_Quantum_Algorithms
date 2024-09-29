@@ -13,8 +13,6 @@ https://learning.quantum.ibm.com/course/variational-algorithm-design
 
 https://arxiv.org/pdf/2402.15879
 
-https://arxiv.org/pdf/1304.3061
-
 https://arxiv.org/pdf/2111.05176
 
 https://arxiv.org/pdf/2012.09265
@@ -24,6 +22,8 @@ https://www.nature.com/articles/s42254-021-00348-9
 >VQE:
 
 https://arxiv.org/pdf/2111.05176
+
+https://arxiv.org/pdf/1304.3061
 
 >Reaction Mechanisms using QCs:
 
