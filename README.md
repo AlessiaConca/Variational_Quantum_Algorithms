@@ -9,7 +9,7 @@ This repository contains theoretical notes on Variational Quantum Algorithms (VQ
 
 https://learning.quantum.ibm.com/course/variational-algorithm-design
 
->VQA
+>VQA:
 
 https://arxiv.org/pdf/2402.15879
 
@@ -19,9 +19,11 @@ https://arxiv.org/pdf/2012.09265
 
 https://www.nature.com/articles/s42254-021-00348-9
 
->VQE
+>VQE:
 
 https://arxiv.org/pdf/2111.05176
 
+>Reaction Mechanisms using QCs:
 
+https://arxiv.org/pdf/1605.03590
 
